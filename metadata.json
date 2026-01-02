@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 表情貼圖生成器",
+  "description": "基於 Gemini 2.5 Flash Image 的表情包生成工具，可針對單一角色生成多種表情變化，保持角色風格一致。",
+  "requestFramePermissions": []
+}
